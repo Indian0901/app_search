@@ -1,0 +1,10 @@
+test_data:
+  test_1:
+    key: "1"
+    value: "休眠"
+  test_2:
+    key: "m"
+    value: "MAC地址"
+  test_3:
+    key: "w"
+    value: "WLAN直连"
